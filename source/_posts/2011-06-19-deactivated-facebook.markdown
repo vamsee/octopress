@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Deactivated my Facebook account
+categories: [social media, personal]
 ---
 
 Finally deactivated my Facebook account. I think I still need sometime to completely shut it down, as I'm still in two minds about Facebook as customer outreach platform (for products) and events platform. 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Lytro Camera
+categories: technology
 ---
 
 The [Lytro Camera](http://www.lytro.com/) is pretty awesome, no doubt about that. But as far as I can see, the single important USP that they point to is being able to focus individual parts of a picture. This is great, but I don't see the point of bringing out a camera which does mostly this. 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Repentance
+categories: politics
 ---
 
 _"The Muslim boy Kaleem pierced my conscience. I understood that love between two human beings is more powerful than the hatred between two communities" - Swami Asimananda_

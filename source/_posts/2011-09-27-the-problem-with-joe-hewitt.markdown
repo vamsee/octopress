@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The problem with Joe Hewitt
+categories: [people, technology]
 ---
 
 Don't get me wrong, I have tremendous respect for Joe and his abilities. His work on Firebug is amazing and use it everyday as a web developer. Though I did not get to use his other popular work, the Facebook client for iOS, I think I did indirectly use it as the Facebook Android app seems to have been a direct port of it.
