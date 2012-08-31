@@ -1,6 +1,7 @@
 ---
 layout: post
 title: New beginnings
+categories: personal
 ---
 
 I've been neglecting writing for way too long. Though hardly anybody reads this (lately I've seen a jump in subscribers, but I'm guessing that is purely curiosity rather than anything else). I'm not the one to complain though. I believe we write blogs for ourselves more than anyone else. But if you like it, that's great :)
